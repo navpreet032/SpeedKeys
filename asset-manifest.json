@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SpeedKeys/static/css/main.1add4c0e.css",
+    "main.js": "/SpeedKeys/static/js/main.df2c31a0.js",
+    "index.html": "/SpeedKeys/index.html",
+    "main.1add4c0e.css.map": "/SpeedKeys/static/css/main.1add4c0e.css.map",
+    "main.df2c31a0.js.map": "/SpeedKeys/static/js/main.df2c31a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1add4c0e.css",
+    "static/js/main.df2c31a0.js"
+  ]
+}
