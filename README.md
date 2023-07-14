@@ -1,7 +1,7 @@
 ## Speed Keys
 Welcome to Speed Keys, the ultimate typing test and accuracy finding site! If you're looking to improve your typing speed and accuracy, you've come to the right place. Speed Keys provides a fun and challenging platform for users to enhance their typing skills and measure their accuracy.
 
-Our site offers a focused approach to typing practice, currently allowing you to practice on eight specific keys. By narrowing the scope, we aim to provide a targeted and efficient learning experience, enabling you to master these keys with precision and speed. Whether you're a beginner looking to build a solid foundation or an experienced typist striving for perfection, Speed Keys has something to offer.
+The site offers a focused approach to typing practice, currently allowing you to practice on eight specific keys. By narrowing the scope, we aim to provide a targeted and efficient learning experience, enabling you to master these keys with precision and speed. Whether you're a beginner looking to build a solid foundation or an experienced typist striving for perfection, Speed Keys has something to offer.
 
 #
 Link to site :https://navpreet032.github.io/SpeedKeys/
